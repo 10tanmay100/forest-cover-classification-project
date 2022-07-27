@@ -12,10 +12,10 @@ def get_requirements_list()->List[str]:
 
 setup(
 name="forest-cover-predictor",
-version="0.0.1",
+version="0.0.2",
 author="Tanmay",
 description="This is cover type predictor setup file",
-packages=["forest-cover"],
+packages=["forest_cover"],
 install_requires=get_requirements_list()
 )
 
