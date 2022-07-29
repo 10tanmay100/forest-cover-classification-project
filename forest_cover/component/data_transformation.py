@@ -1,6 +1,7 @@
 
 
 import pickle
+import shutil
 from sklearn import preprocessing
 from forest_cover.exception import forest_cover_exception
 from forest_cover.logger import logging
@@ -9,7 +10,7 @@ from forest_cover.entity.artifact_entity import DataIngestionArtifact,\
 DataValidationArtifact,DataTransformationArtifact
 import sys,os
 import numpy as np
-from sklearn.base import BaseEstimator,TransformerMixin
+from forest_cover.constant import *
 from sklearn.preprocessing import StandardScaler,OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -58,7 +59,7 @@ class DataTransformation:
             logging.info(f"{X.columns}")
             l=list(X.columns)
             p=list(numerical_columns)
-            df=pd.DataFrame(preprocessing.fit_transform(X),columns=X.columns)
+            df=pd.concat([pd.DataFrame(preprocessing.fit_transform(X),columns=X.columns),y],axis=1)
             df.to_csv(os.path.join(self.data_transformation_config.transformed_train_dir,"train.csv"),index=False)
             #scaling on test data
             df=pd.read_csv(self.data_ingestion_artifact.test_file_path)
@@ -68,11 +69,12 @@ class DataTransformation:
             X=df.drop("Cover_Type",axis=1)
             y=df["Cover_Type"]
             logging.info("Separation as X and Y")
-            df=pd.DataFrame(preprocessing.transform(X),columns=X.columns)
+            df=pd.concat([pd.DataFrame(preprocessing.transform(X),columns=X.columns),y],axis=1)
             df.to_csv(os.path.join(self.data_transformation_config.transformed_test_dir,"test.csv"),index=False)
             path_pkl=self.data_transformation_config.preprocessed_object_file_path
             with open(path_pkl,"wb") as f:
                 pickle.dump(preprocessing,f)
+            shutil.copy(path_pkl,ROOT_DIR)
             return DataTransformationArtifact(is_transformed=True,message="Data Transformed",transformed_train_file_path=os.path.join(self.data_transformation_config.transformed_train_dir,"train.csv"),transformed_test_file_path=os.path.join(self.data_transformation_config.transformed_test_dir,"test.csv"),preprocessed_object_file_path=self.data_transformation_config.preprocessed_object_file_path)
 
         except Exception as e:
