@@ -7,4 +7,7 @@ PYyaml
 sklearn
 xgboost
 gunicorn
+ipykernel
+cassandra-driver
+evidently
 -e .

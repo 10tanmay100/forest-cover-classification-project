@@ -1,11 +1,11 @@
 import os
 import sys
 
-class housing_exception(Exception):
+class forest_cover_exception(Exception):
     
     def __init__(self,error_msg:Exception,error_detail:sys):
         super().__init__(error_msg)
-        self.error_msg=housing_exception.get_detailed_error_message(error_msg=error_msg,error_detail=error_detail)
+        self.error_msg=forest_cover_exception.get_detailed_error_message(error_msg=error_msg,error_detail=error_detail)
     
     @staticmethod
     def get_detailed_error_message(error_msg:Exception,error_detail:sys)->str:
@@ -18,7 +18,7 @@ class housing_exception(Exception):
     def __str__(self):
         return self.error_msg
     def __repr__(self):
-        return housing_exception.__name__.str()
+        return forest_cover_exception.__name__.str()
 
 
 
