@@ -126,12 +126,20 @@ class Configuration:
             artifact_dir = self.training_pipeline_config.artifact_dir
             model_trainer_artifact_dir=os.path.join(artifact_dir,MODEL_TRAINER_ARTIFACT_DIR,self.timestamp)
             model_trainer_config_info = self.config_info[MODEL_TRAINER_CONFIG_KEY]
-            trained_model_file_path = os.path.join(model_trainer_artifact_dir,model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_DIR_KEY],model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_FILE_NAME_KEY]
+
+            trained_model_file_path_cluster_folder=os.path.join(model_trainer_artifact_dir,model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_DIR_KEY])
+
+           
+
+            trained_model_file_path_cluster0 = os.path.join(model_trainer_artifact_dir,model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_DIR_KEY],model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_FILE_NAME_KEY_0]
+            )
+
+            trained_model_file_path_cluster1 = os.path.join(model_trainer_artifact_dir,model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_DIR_KEY],model_trainer_config_info[MODEL_TRAINER_TRAINED_MODEL_FILE_NAME_KEY_1]
             )
         
 
             base_accuracy = model_trainer_config_info[MODEL_TRAINER_BASE_ACCURACY_KEY]
-            model_trainer_config = ModelTrainerConfig(trained_model_file_path=trained_model_file_path,base_accuracy=base_accuracy)
+            model_trainer_config = ModelTrainerConfig(trained_model_file_path_cluster_folder=trained_model_file_path_cluster_folder,trained_model_file_path_cluster0=trained_model_file_path_cluster0,trained_model_file_path_cluster1=trained_model_file_path_cluster1,base_accuracy=base_accuracy)
             logging.info(f"Model trainer config: {model_trainer_config}")
             return model_trainer_config
         except Exception as e:

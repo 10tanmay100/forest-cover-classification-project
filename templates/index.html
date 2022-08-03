@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Forest Cover Classification</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="number" name="Aspect" placeholder="Aspect" required="required" step="any" />
+        <input type="number" name="Elevation" placeholder="Elevation" required="required" step="any" />
+        <input type="number" name="Hillshade_9am" placeholder="Hillshade_9am" required="required" step="any" />
+		<input type="number" name="Hillshade_Noon" placeholder="Hillshade_Noon" required="required" step="any"/>
+        <input type="number" name="Horizontal_Distance_To_Fire_Points" placeholder="Horizontal_Distance_To_Fire_Points" required="required" step="any"/>
+        <input type="number" name="Horizontal_Distance_To_Hydrology" placeholder="Horizontal_Distance_To_Hydrology" required="required" step="any"/>
+        <input type="number" name="Horizontal_Distance_To_Roadways" placeholder="Horizontal_Distance_To_Roadways" required="required" step="any"/>
+        <input type="number" name="Slope" placeholder="Slope" required="required" step="any"/>
+        <input type="number" name="Soil_Type10" placeholder="if soil type is Bullwark type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Soil_Type23" placeholder="if soil type is Leighcan family type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Soil_Type29" placeholder="if soil type is Como type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Soil_Type3" placeholder="if soil type is Haploborolis type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Soil_Type4" placeholder="if soil type is Ratake family type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Soil_Type99" placeholder="if soil type is others type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Vertical_Distance_To_Hydrology" placeholder="Vertical_Distance_To_Hydrology" required="required" step="any"/>
+        <input type="number" name="Wilderness_Area1" placeholder="if area is Rawah type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Wilderness_Area2" placeholder="if area is Neota type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Wilderness_Area3" placeholder="if area is Comanche Peak type 1 or 0" required="required" step="any"/>
+        <input type="number" name="Wilderness_Area4" placeholder="if area is Cache la Poudre type 1 or 0" required="required" step="any"/>
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>

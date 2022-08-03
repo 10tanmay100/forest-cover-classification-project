@@ -1,5 +1,3 @@
-
-
 import pickle
 import shutil
 from sklearn import preprocessing
@@ -46,8 +44,8 @@ class DataTransformation:
             #scaling on train data
             df=pd.read_csv(self.data_ingestion_artifact.train_file_path)
             logging.info(f"Reading the train file path which is {df}")
-            df.drop(["Id","Soil_Type8","Soil_Type7"],axis=1,inplace=True)
-            logging.info("Dropping columns 'Id','Soil_Type8','Soil_Type7' ")
+            df.drop(["Id","Soil_Type8","Soil_Type7",'Soil_Type1','Soil_Type11','Soil_Type12','Soil_Type13','Soil_Type14','Soil_Type15','Soil_Type16','Soil_Type17','Soil_Type18','Soil_Type19','Soil_Type2','Soil_Type20','Soil_Type21','Soil_Type22','Soil_Type24','Soil_Type25','Soil_Type26','Soil_Type27','Soil_Type28','Soil_Type30','Soil_Type31','Soil_Type32','Soil_Type33','Soil_Type34','Soil_Type35','Soil_Type36','Soil_Type37','Soil_Type38','Soil_Type39','Soil_Type40','Soil_Type5','Soil_Type6','Soil_Type9','Wilderness_Area4','Hillshade_3pm'],axis=1,inplace=True)
+            logging.info("Dropping columns 'Id','Soil_Type8','Soil_Type7','Soil_Type1','Soil_Type11','Soil_Type12','Soil_Type13','Soil_Type14','Soil_Type15','Soil_Type16','Soil_Type17','Soil_Type18','Soil_Type19','Soil_Type2','Soil_Type20','Soil_Type21','Soil_Type22','Soil_Type24','Soil_Type25','Soil_Type26','Soil_Type27','Soil_Type28','Soil_Type30','Soil_Type31','Soil_Type32','Soil_Type33','Soil_Type34','Soil_Type35','Soil_Type36','Soil_Type37','Soil_Type38','Soil_Type39','Soil_Type40','Soil_Type5','Soil_Type6','Soil_Type9','Wilderness_Area4','Hillshade_3pm'")
             X=df.drop("Cover_Type",axis=1)
             y=df["Cover_Type"]
             logging.info("Separation as X and Y")
@@ -64,7 +62,7 @@ class DataTransformation:
             #scaling on test data
             df=pd.read_csv(self.data_ingestion_artifact.test_file_path)
             logging.info(f"Reading the test file path which is {df}")
-            df.drop(["Id","Soil_Type8","Soil_Type7"],axis=1,inplace=True)
+            df.drop(["Id","Soil_Type8","Soil_Type7",'Soil_Type1','Soil_Type11','Soil_Type12','Soil_Type13','Soil_Type14','Soil_Type15','Soil_Type16','Soil_Type17','Soil_Type18','Soil_Type19','Soil_Type2','Soil_Type20','Soil_Type21','Soil_Type22','Soil_Type24','Soil_Type25','Soil_Type26','Soil_Type27','Soil_Type28','Soil_Type30','Soil_Type31','Soil_Type32','Soil_Type33','Soil_Type34','Soil_Type35','Soil_Type36','Soil_Type37','Soil_Type38','Soil_Type39','Soil_Type40','Soil_Type5','Soil_Type6','Soil_Type9','Wilderness_Area4','Hillshade_3pm'],axis=1,inplace=True)
             logging.info("Dropping columns 'Id','Soil_Type8','Soil_Type7' ")
             X=df.drop("Cover_Type",axis=1)
             y=df["Cover_Type"]
@@ -83,7 +81,7 @@ class DataTransformation:
     def initiate_data_transformation(self):
         try:
             data_transformation_artifact=self.get_transformer_object_and_test_train_dir()
-            logging.info(f"Data transformationa artifact: {data_transformation_artifact}")
+            logging.info(f"Data transformation artifact: {data_transformation_artifact}")
             return data_transformation_artifact
         except Exception as e:
             raise forest_cover_exception(e,sys) from e

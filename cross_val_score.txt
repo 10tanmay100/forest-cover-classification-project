@@ -1,0 +1,440 @@
+<--Logistics Regression Cross val score--->
+<--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-12-04-41--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-12-04-41--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-12-04-41--><--Decision Tree Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-12-04-41--><--Decision Tree Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-12-04-41--><--Decision Tree Cross val score--->
+scores are [0.8974142  0.87940804 0.87078355 0.88813707 0.85750502]
+mean score is 0.8786495767055076
+<--2022-08-03-12-04-41--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84350637 0.83530765 0.81040449 0.81997187 0.78485108]
+mean score is 0.8188082893813501
+<--2022-08-03-12-04-41--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-12-30-20--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-12-30-20--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-12-30-20--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-12-30-20--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-12-30-20--><--AdaBoostClassifier Cross val score--->
+scores are [0.90176554 0.88201903 0.87426952 0.88266544 0.85957553]
+mean score is 0.8800590112506731
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84307103 0.83578649 0.80998092 0.81946955 0.78533945]
+mean score is 0.8187294875437644
+<--2022-08-03-12-30-20--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-12-30-20--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-12-30-20--><--Decision Tree Cross val score--->
+scores are [0.72047362 0.70699249 0.76065788 0.99946576 0.99569718]
+mean score is 0.8366573860703918
+<--2022-08-03-12-30-20--><--Random forest Cross val score--->
+scores are [0.81349386 0.80613622 0.86787233 1.         1.        ]
+mean score is 0.8975004820906769
+<--2022-08-03-12-30-20--><--knn Cross val score--->
+scores are [0.72753134 0.69564836 0.77803614 1.         1.        ]
+mean score is 0.8402431684521792
+<--2022-08-03-12-30-20--><--AdaBoostClassifier Cross val score--->
+scores are [0.83099028 0.82720228 0.89047385 1.         1.        ]
+mean score is 0.9097332830735461
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Cross val score--->
+scores are [0.7883119  0.79005066 0.8556338  1.         1.        ]
+mean score is 0.8867992706988979
+<--2022-08-03-12-30-20--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-12-39-41--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-12-39-41--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-12-39-41--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-12-39-41--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-12-39-41--><--AdaBoostClassifier Cross val score--->
+scores are [0.89304943 0.87960549 0.86953705 0.88852364 0.85163213]
+mean score is 0.8764695496688134
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84395135 0.83572576 0.81044899 0.82030604 0.78484139]
+mean score is 0.8190547055416466
+<--2022-08-03-12-39-41--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-12-39-41--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-12-39-41--><--Decision Tree Cross val score--->
+scores are [0.72047362 0.70699249 0.76065788 0.99946576 0.99569718]
+mean score is 0.8366573860703918
+<--2022-08-03-12-39-41--><--Random forest Cross val score--->
+scores are [0.81349386 0.80613622 0.86787233 1.         1.        ]
+mean score is 0.8975004820906769
+<--2022-08-03-12-39-41--><--knn Cross val score--->
+scores are [0.72753134 0.69564836 0.77803614 1.         1.        ]
+mean score is 0.8402431684521792
+<--2022-08-03-12-39-41--><--AdaBoostClassifier Cross val score--->
+scores are [0.83428781 0.83112026 0.88313104 1.         1.        ]
+mean score is 0.9097078225848634
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Cross val score--->
+scores are [0.78946909 0.8044038  0.8556338  1.         1.        ]
+mean score is 0.8899013375779596
+<--2022-08-03-12-39-41--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-12-57-21--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-12-57-21--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-12-57-21--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-12-57-21--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-12-57-21--><--AdaBoostClassifier Cross val score--->
+scores are [0.9001191  0.88282605 0.87191238 0.88172217 0.85509637]
+mean score is 0.8783352128792685
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84479768 0.83534914 0.81044899 0.81945799 0.78341771]
+mean score is 0.8186943025342576
+<--2022-08-03-12-57-21--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-12-57-21--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-12-57-21--><--Decision Tree Cross val score--->
+scores are [0.72047362 0.70699249 0.76065788 0.99946576 0.99569718]
+mean score is 0.8366573860703918
+<--2022-08-03-12-57-21--><--Random forest Cross val score--->
+scores are [0.81349386 0.80613622 0.86787233 1.         1.        ]
+mean score is 0.8975004820906769
+<--2022-08-03-12-57-21--><--knn Cross val score--->
+scores are [0.72753134 0.69564836 0.77803614 1.         1.        ]
+mean score is 0.8402431684521792
+<--2022-08-03-12-57-21--><--AdaBoostClassifier Cross val score--->
+scores are [0.828535   0.83254915 0.88831208 1.         1.        ]
+mean score is 0.9098792480626589
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Cross val score--->
+scores are [0.79024865 0.79344038 0.8556338  1.         1.        ]
+mean score is 0.8878645663600384
+<--2022-08-03-12-57-21--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-13-03-46--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-13-03-46--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-13-03-46--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-13-03-46--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-13-03-46--><--AdaBoostClassifier Cross val score--->
+scores are [0.89820554 0.87896592 0.87120949 0.88606792 0.8563083 ]
+mean score is 0.8781514327976995
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84350637 0.83617836 0.81044899 0.8195663  0.78583098]
+mean score is 0.8191062002354474
+<--2022-08-03-13-03-46--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-13-03-46--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-13-03-46--><--Decision Tree Cross val score--->
+scores are [0.72047362 0.70699249 0.76065788 0.99946576 0.99569718]
+mean score is 0.8366573860703918
+<--2022-08-03-13-03-46--><--Random forest Cross val score--->
+scores are [0.81349386 0.80613622 0.86787233 1.         1.        ]
+mean score is 0.8975004820906769
+<--2022-08-03-13-03-46--><--knn Cross val score--->
+scores are [0.72753134 0.69564836 0.77803614 1.         1.        ]
+mean score is 0.8402431684521792
+<--2022-08-03-13-03-46--><--AdaBoostClassifier Cross val score--->
+scores are [0.836384   0.83154824 0.88086477 1.         1.        ]
+mean score is 0.9097594021278027
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Cross val score--->
+scores are [0.78939997 0.79125041 0.8556338  1.         1.        ]
+mean score is 0.8872568358680253
+<--2022-08-03-13-03-46--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-13-39-49--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-13-39-49--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-13-39-49--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-13-39-49--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-13-39-49--><--AdaBoostClassifier Cross val score--->
+scores are [0.89494362 0.8815387  0.8742515  0.88720052 0.85099313]
+mean score is 0.8777854943622975
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84307917 0.83576912 0.81089567 0.8208076  0.78570816]
+mean score is 0.8192519421806453
+<--2022-08-03-13-39-49--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-13-39-49--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-13-39-49--><--Decision Tree Cross val score--->
+scores are [0.69875662 0.74828696 0.76776823 0.99893029 0.99515452]
+mean score is 0.8417793224643969
+<--2022-08-03-13-39-49--><--Random forest Cross val score--->
+scores are [0.79044307 0.774166   0.8464161  0.99623416 0.99623876]
+mean score is 0.8806996181743425
+<--2022-08-03-13-39-49--><--knn Cross val score--->
+scores are [0.69254508 0.65384595 0.74550606 1.         1.        ]
+mean score is 0.8183794171585508
+<--2022-08-03-13-39-49--><--AdaBoostClassifier Cross val score--->
+scores are [0.82941949 0.83267673 0.87322476 1.         1.        ]
+mean score is 0.9070641948863791
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Cross val score--->
+scores are [0.79917754 0.80621321 0.87647136 1.         1.        ]
+mean score is 0.8963724221757262
+<--2022-08-03-13-39-49--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-13-53-32--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-13-53-32--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-13-53-32--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-13-53-32--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-13-53-32--><--AdaBoostClassifier Cross val score--->
+scores are [0.89784999 0.88152281 0.87195521 0.88217281 0.85668249]
+mean score is 0.8780366626394864
+<--2022-08-03-13-53-32--><--GradientBoostingClassifier Cross val score--->
+scores are [0.8439814  0.83533389 0.81049217 0.81958068 0.78578591]
+mean score is 0.819034808734673
+<--2022-08-03-13-53-32--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-15-30-04--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-15-30-04--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-15-30-04--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-15-30-04--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-15-30-04--><--AdaBoostClassifier Cross val score--->
+scores are [0.89448202 0.87815683 0.87097395 0.88684971 0.85467428]
+mean score is 0.8770273596536328
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84436099 0.83579221 0.81044899 0.81988528 0.78570816]
+mean score is 0.8192391277203439
+<--2022-08-03-15-30-04--><--Logistics Regression Cross val score--->
+scores are [0.70596341 0.62409181 0.68602671 0.68461192 0.73735301]
+mean score is 0.6876093747041884
+<--2022-08-03-15-30-04--><--Support Vector Machine Cross val score--->
+scores are [0.73256974 0.71066363 0.75717128 0.72306865 0.76119697]
+mean score is 0.736934055095378
+<--2022-08-03-15-30-04--><--Decision Tree Cross val score--->
+scores are [0.71614532 0.65489902 0.71415657 0.68088959 0.71662358]
+mean score is 0.6965428156709564
+<--2022-08-03-15-30-04--><--Random forest Cross val score--->
+scores are [0.80731578 0.76998476 0.8191538  0.78815953 0.83724306]
+mean score is 0.8043713856588971
+<--2022-08-03-15-30-04--><--knn Cross val score--->
+scores are [0.73106494 0.69612036 0.72952011 0.72629462 0.75707036]
+mean score is 0.7280140783028705
+<--2022-08-03-15-30-04--><--AdaBoostClassifier Cross val score--->
+scores are [0.83635073 0.80379569 0.83217527 0.80811698 0.863513  ]
+mean score is 0.8287903332613441
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Cross val score--->
+scores are [0.7625553  0.75439954 0.78861105 0.80980893 0.8482594 ]
+mean score is 0.7927268431110278
+<--2022-08-03-15-30-04--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-16-49-33--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-16-49-33--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-16-49-33--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-16-49-33--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-16-49-33--><--AdaBoostClassifier Cross val score--->
+scores are [0.89563392 0.88183253 0.8721546  0.88559413 0.85568114]
+mean score is 0.8781792638995736
+<--2022-08-03-16-49-33--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84398811 0.83576727 0.81080412 0.81953432 0.78570816]
+mean score is 0.8191603940152781
+<--2022-08-03-16-49-33--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-17-17-44--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-17-17-44--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-17-17-44--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-17-17-44--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-17-17-44--><--AdaBoostClassifier Cross val score--->
+scores are [0.89477451 0.87830934 0.87345218 0.88525871 0.85322907]
+mean score is 0.877004761173473
+<--2022-08-03-17-17-44--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84388824 0.83489295 0.81041974 0.81953077 0.78484465]
+mean score is 0.8187152684962345
+<--2022-08-03-17-17-44--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-17-37-01--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-17-37-01--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-17-37-01--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-17-37-01--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-17-37-01--><--AdaBoostClassifier Cross val score--->
+scores are [0.89303916 0.87989375 0.87381417 0.88911778 0.8567253 ]
+mean score is 0.8785180307445029
+<--2022-08-03-17-37-01--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84479768 0.83489839 0.81033557 0.81953077 0.78384454]
+mean score is 0.8186813890093342
+<--2022-08-03-17-37-01--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-17-50-50--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-17-50-50--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-17-50-50--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-17-50-50--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-17-50-50--><--AdaBoostClassifier Cross val score--->
+scores are [0.89874399 0.87875737 0.87191789 0.88518977 0.85464554]
+mean score is 0.8778509106705871
+<--2022-08-03-17-50-50--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84350637 0.83571991 0.80916784 0.81990998 0.78578591]
+mean score is 0.8188180026678132
+<--2022-08-03-17-50-50--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-17-50-50--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-18-28-27--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-18-28-27--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-18-28-27--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-18-28-27--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-18-28-27--><--Logistics Regression Cross val score--->
+scores are [0.70820072 0.70634464 0.69032287 0.67493385 0.59534934]
+mean score is 0.6750302818634873
+<--2022-08-03-18-32-33--><--Support Vector Machine Cross val score--->
+scores are [0.78123057 0.76490293 0.76775759 0.75461002 0.66119971]
+mean score is 0.7459401619630025
+<--2022-08-03-18-32-33--><--Decision Tree Cross val score--->
+scores are [0.7701333  0.76323822 0.78065442 0.76352906 0.74279084]
+mean score is 0.7640691673174389
+<--2022-08-03-18-32-33--><--Random forest Cross val score--->
+scores are [0.88420316 0.87012351 0.8610274  0.86302661 0.82485901]
+mean score is 0.86064793902635
+<--2022-08-03-18-32-33--><--knn Cross val score--->
+scores are [0.85212345 0.83622115 0.8441864  0.85057859 0.92724191]
+mean score is 0.8620703015851194
+<--2022-08-03-18-32-33--><--AdaBoostClassifier Cross val score--->
+scores are [0.89521516 0.87724088 0.87494159 0.88873819 0.85628625]
+mean score is 0.8784844167237414
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Cross val score--->
+scores are [0.84302441 0.83622757 0.81041974 0.8208076  0.78533945]
+mean score is 0.8191637543935562
+<--2022-08-03-18-32-33--><--Logistics Regression Cross val score--->
+scores are [0.64927656 0.64256837 0.70198661 0.93287162 0.92324536]
+mean score is 0.7699897012522035
+<--2022-08-03-18-32-33--><--Support Vector Machine Cross val score--->
+scores are [0.71900581 0.67734825 0.76078539 0.93025561 0.95803036]
+mean score is 0.8090850830441042
+<--2022-08-03-18-32-33--><--Decision Tree Cross val score--->
+scores are [0.69875662 0.74828696 0.76776823 0.99893029 0.99515452]
+mean score is 0.8417793224643969
+<--2022-08-03-18-32-33--><--Random forest Cross val score--->
+scores are [0.79044307 0.774166   0.8464161  0.99623416 0.99623876]
+mean score is 0.8806996181743425
+<--2022-08-03-18-32-33--><--knn Cross val score--->
+scores are [0.69254508 0.65384595 0.74550606 1.         1.        ]
+mean score is 0.8183794171585508
+<--2022-08-03-18-32-33--><--AdaBoostClassifier Cross val score--->
+scores are [0.8361384  0.82477185 0.87631018 1.         1.        ]
+mean score is 0.9074440863138928
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Cross val score--->
+scores are [0.79801865 0.80033234 0.87647136 1.         1.        ]
+mean score is 0.8949644709089553
+<--2022-08-03-18-32-33-->

@@ -24,6 +24,7 @@ data_transformation_config:
 
 model_trainer_config:
   trained_model_dir: trained_model
-  model_file_name: model.pkl
+  model_file_name_cluster0: model_cluster0.pkl
+  model_file_name_cluster1: model_cluster1.pkl
   base_accuracy: 0.6
   model_config_dir: config

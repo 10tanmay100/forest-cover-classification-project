@@ -12,7 +12,7 @@ DataTransformationConfig=namedtuple("DataTransformationConfig",
 "preprocessed_object_file_path"])
 
 #ModelTrainerConfig
-ModelTrainerConfig = namedtuple("ModelTrainerConfig", ["trained_model_file_path","base_accuracy"])
+ModelTrainerConfig = namedtuple("ModelTrainerConfig", ["trained_model_file_path_cluster_folder","trained_model_file_path_cluster0","trained_model_file_path_cluster1","base_accuracy"])
 
 
 

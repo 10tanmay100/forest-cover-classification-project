@@ -1,5 +1,6 @@
 flask
 pandas
+flask_cors
 numpy
 matplotlib
 seaborn
@@ -10,4 +11,5 @@ gunicorn
 ipykernel
 cassandra-driver
 evidently
+imblearn
 -e .

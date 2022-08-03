@@ -1,0 +1,571 @@
+<--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-12-04-41--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-12-04-41--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-12-04-41--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-12-04-41--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-12-04-41--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-12-04-41--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-12-04-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-04-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-12-04-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9667878061388799
+<--2022-08-03-12-04-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8101257552678638
+<--2022-08-03-12-04-41--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-12-04-41--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.752818063049859
+<--2022-08-03-12-04-41--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-12-30-20--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-12-30-20--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-12-30-20--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-12-30-20--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-12-30-20--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-12-30-20--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9647939389098229
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7975076063737572
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7532344647012964
+<--2022-08-03-12-30-20--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-12-30-20--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.22801750947585592
+<--2022-08-03-12-30-20--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8438924208496871
+<--2022-08-03-12-30-20--><--Support vector Accuracy for testing--->
+Testing accuracy 0.11308562061524209
+<--2022-08-03-12-30-20--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9726521235022366
+<--2022-08-03-12-30-20--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.21637410428678203
+<--2022-08-03-12-30-20--><--Random Forest Accuracy for training--->
+Training accuracy 0.9967942794370998
+<--2022-08-03-12-30-20--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.2457437207146981
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.055193303514602166
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-30-20--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.15265200748881144
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9978655064012029
+<--2022-08-03-12-30-20--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.09427643087383698
+<--2022-08-03-12-30-20--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-12-39-41--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-12-39-41--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-12-39-41--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-12-39-41--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-12-39-41--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-12-39-41--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9678067354333962
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7944900553212905
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7534083140153361
+<--2022-08-03-12-39-41--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-12-39-41--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.22801750947585592
+<--2022-08-03-12-39-41--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8438924208496871
+<--2022-08-03-12-39-41--><--Support vector Accuracy for testing--->
+Testing accuracy 0.11308562061524209
+<--2022-08-03-12-39-41--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9726521235022366
+<--2022-08-03-12-39-41--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.21637410428678203
+<--2022-08-03-12-39-41--><--Random Forest Accuracy for training--->
+Training accuracy 0.9967942794370998
+<--2022-08-03-12-39-41--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.2457437207146981
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.055193303514602166
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-39-41--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.13588814182423348
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9978655064012029
+<--2022-08-03-12-39-41--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.09117926219958368
+<--2022-08-03-12-39-41--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-12-57-21--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-12-57-21--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-12-57-21--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-12-57-21--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-12-57-21--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-12-57-21--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9665085964873431
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7993486907143137
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7534690573442876
+<--2022-08-03-12-57-21--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-12-57-21--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.22801750947585592
+<--2022-08-03-12-57-21--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8438924208496871
+<--2022-08-03-12-57-21--><--Support vector Accuracy for testing--->
+Testing accuracy 0.11308562061524209
+<--2022-08-03-12-57-21--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9726521235022366
+<--2022-08-03-12-57-21--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.21637410428678203
+<--2022-08-03-12-57-21--><--Random Forest Accuracy for training--->
+Training accuracy 0.9967942794370998
+<--2022-08-03-12-57-21--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.2457437207146981
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.055193303514602166
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-12-57-21--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.14040927912229495
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9978655064012029
+<--2022-08-03-12-57-21--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.09110370319718722
+<--2022-08-03-12-57-21--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-13-03-46--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-13-03-46--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-13-03-46--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-13-03-46--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-13-03-46--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-13-03-46--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.967209352326673
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7986064873582741
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7527584096337575
+<--2022-08-03-13-03-46--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-13-03-46--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.22801750947585592
+<--2022-08-03-13-03-46--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8438924208496871
+<--2022-08-03-13-03-46--><--Support vector Accuracy for testing--->
+Testing accuracy 0.11308562061524209
+<--2022-08-03-13-03-46--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9726521235022366
+<--2022-08-03-13-03-46--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.21637410428678203
+<--2022-08-03-13-03-46--><--Random Forest Accuracy for training--->
+Training accuracy 0.9967942794370998
+<--2022-08-03-13-03-46--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.2457437207146981
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.055193303514602166
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-03-46--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.11308866973669687
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9978655064012029
+<--2022-08-03-13-03-46--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.0911699664272015
+<--2022-08-03-13-03-46--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-13-39-49--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-13-39-49--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-13-39-49--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-13-39-49--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-13-39-49--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-13-39-49--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9672062523655808
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8077152331390054
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7523465023053153
+<--2022-08-03-13-39-49--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-13-39-49--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.22801750947585592
+<--2022-08-03-13-39-49--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8441221977248459
+<--2022-08-03-13-39-49--><--Support vector Accuracy for testing--->
+Testing accuracy 0.11308562061524209
+<--2022-08-03-13-39-49--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9688960243487803
+<--2022-08-03-13-39-49--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.09239933690405798
+<--2022-08-03-13-39-49--><--Random Forest Accuracy for training--->
+Training accuracy 0.9625375738707516
+<--2022-08-03-13-39-49--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.23798726546637639
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.0566864045148839
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-39-49--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.1308940604419306
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9980789749065668
+<--2022-08-03-13-39-49--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.21009947566825293
+<--2022-08-03-13-39-49--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-13-53-32--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-13-53-32--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-13-53-32--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-13-53-32--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-13-53-32--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-13-53-32--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-13-53-32--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-13-53-32--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-13-53-32--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-13-53-32--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9679024080714486
+<--2022-08-03-13-53-32--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.802231114599778
+<--2022-08-03-13-53-32--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-13-53-32--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7518223980452191
+<--2022-08-03-13-53-32--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-15-30-04--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-15-30-04--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-15-30-04--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-15-30-04--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-15-30-04--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-15-30-04--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-15-30-04--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9661624189043136
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8070955682700235
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7528268908116814
+<--2022-08-03-15-30-04--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905268416488249
+<--2022-08-03-15-30-04--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.014808493226632668
+<--2022-08-03-15-30-04--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7578024206475076
+<--2022-08-03-15-30-04--><--Support vector Accuracy for testing--->
+Testing accuracy 0.002652802676609366
+<--2022-08-03-15-30-04--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9764470800750144
+<--2022-08-03-15-30-04--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.0466132674230627
+<--2022-08-03-15-30-04--><--Random Forest Accuracy for training--->
+Training accuracy 0.9401719286095164
+<--2022-08-03-15-30-04--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.005600527952707452
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.0016124302838842646
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-15-30-04--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.006444383798787425
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9985041136873598
+<--2022-08-03-15-30-04--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.08324617008895427
+<--2022-08-03-15-30-04--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-16-49-33--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-16-49-33--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-16-49-33--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-16-49-33--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-16-49-33--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-16-49-33--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-16-49-33--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-16-49-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-16-49-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-16-49-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9655587086718711
+<--2022-08-03-16-49-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.804003551529706
+<--2022-08-03-16-49-33--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-16-49-33--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7517467555858083
+<--2022-08-03-16-49-33--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-17-17-44--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-17-17-44--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-17-17-44--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-17-17-44--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-17-17-44--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-17-17-44--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-17-17-44--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-17-17-44--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-17-17-44--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-17-17-44--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9663362070867628
+<--2022-08-03-17-17-44--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7933779911169657
+<--2022-08-03-17-17-44--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-17-17-44--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7534690573442876
+<--2022-08-03-17-17-44--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-17-37-01--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-17-37-01--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-17-37-01--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-17-37-01--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-17-37-01--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-17-37-01--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-17-37-01--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-17-37-01--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-17-37-01--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-17-37-01--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9680657660549723
+<--2022-08-03-17-37-01--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8014994978004145
+<--2022-08-03-17-37-01--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-17-37-01--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7535322534796004
+<--2022-08-03-17-37-01--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-17-50-50--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-17-50-50--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-17-50-50--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-17-50-50--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-17-50-50--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-17-50-50--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-17-50-50--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-17-50-50--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-17-50-50--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-17-50-50--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9658241576088797
+<--2022-08-03-17-50-50--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8049594127784112
+<--2022-08-03-17-50-50--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-17-50-50--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7531241945265522
+<--2022-08-03-17-50-50--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-17-50-50--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-18-28-27--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-18-28-27--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-18-28-27--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-18-28-27--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-18-28-27--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-18-28-27--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-18-28-27--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-18-28-27--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-18-28-27--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-18-28-27--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.6905293790944216
+<--2022-08-03-18-32-33--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6790007042514676
+<--2022-08-03-18-32-33--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.7831492074151952
+<--2022-08-03-18-32-33--><--Support vector Accuracy for testing--->
+Testing accuracy 0.7287852698298298
+<--2022-08-03-18-32-33--><--Decision Tree Accuracy for training--->
+Training accuracy 0.8649062611391173
+<--2022-08-03-18-32-33--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.7298129678584997
+<--2022-08-03-18-32-33--><--Random Forest Accuracy for training--->
+Training accuracy 0.950157137171108
+<--2022-08-03-18-32-33--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.7924902640337428
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.7094834121904998
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 0.9667662891612318
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.8058673471941266
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9833403469616392
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.7520440192020699
+<--2022-08-03-18-32-33--><--Logistics Regression Accuracy for training--->
+Training accuracy 0.7753586019210275
+<--2022-08-03-18-32-33--><--Logistics Regression Accuracy for testing--->
+Testing accuracy 0.6003737199909449
+<--2022-08-03-18-32-33--><--Support vector classifier Accuracy for training--->
+Training accuracy 0.8441221977248459
+<--2022-08-03-18-32-33--><--Support vector Accuracy for testing--->
+Testing accuracy 0.016758987707461613
+<--2022-08-03-18-32-33--><--Decision Tree Accuracy for training--->
+Training accuracy 0.9688960243487803
+<--2022-08-03-18-32-33--><--Decision Tree Accuracy for testing--->
+Testing accuracy 0.02835272305072266
+<--2022-08-03-18-32-33--><--Random Forest Accuracy for training--->
+Training accuracy 0.9625375738707516
+<--2022-08-03-18-32-33--><--Random Forest Accuracy for testing--->
+Testing accuracy 0.03579496951778166
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.010327210327210328
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for training--->
+Training accuracy 1.0
+<--2022-08-03-18-32-33--><--KNeighborsClassifier Accuracy for testing--->
+Testing accuracy 0.03626251776818716
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Accuracy for training--->
+Training accuracy 0.9980789749065668
+<--2022-08-03-18-32-33--><--GradientBoostingClassifier Accuracy for testing-->
+Testing accuracy 0.11858683772762565
+<--2022-08-03-18-32-33-->
