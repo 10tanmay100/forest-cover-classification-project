@@ -61,7 +61,7 @@ def predict():
     else:
         p="Krummholz"
 
-    return render_template('index.html', prediction_text='Activity Label is {}'.format(p))
+    return render_template('index.html', prediction_text='Forest Cover Type is {}'.format(p))
 
 
 
